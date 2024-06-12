@@ -1,0 +1,114 @@
+**This wiki provides details about the functionality of Contract Manager v2.0**
+
+Hover on the images below to obtain a description of each screen
+
+{{:about.png?nolink&600 | About us - provides system version information}}
+
+
+
+
+{{:active_contracts.png?nolink&600 |Active contracts - allows a user to view all contracts that are yet to expire}}
+
+
+
+{{:add_contract.png?nolink&600 |Add contract - allows a user to create a new contract}}
+
+
+
+{{:advanced_search.png?nolink&600 |Advanced search - allows a user to search/view all contracts in the system (active, archived, expired)}}
+
+
+
+{{:amend_contract.png?nolink&600 |Amend contract - allows a user to archive, update all details of a contract including addendums}}
+
+
+
+{{:archived_contracts.png?nolink&600 |Archived contracts - allows a user to view all contracts that have been archived (expired - no renewal)}}
+
+
+
+{{:audit_trail.png?nolink&600 | Audit trail - allows a user to view all audit trail of contracts created and amended}}
+
+
+
+{{:contract_alerts.png?nolink&600 | Contract alert - Notifications will be sent to users if contract is about to expire (based on global configuration or alert configuration specific to the contract)}}
+
+
+
+{{:contracts_expiring_in_30_days.png?nolink&600 |Contracts expiring in 30 days - allows a user to view all contracts that will expire within a 30 day window}}
+
+
+
+{{:contracts_without_values.png?nolink&600 |Contracts without values - allows a user to view all contracts whose contract value is yet to be updated }}
+
+
+
+{{:create_department.png?nolink&600 |Add department - allows a user to create a department}}
+
+
+
+{{:create_user.png?nolink&600 |Add user - allows a user to create a user and assign roles}}
+
+
+
+{{:dashboard.png?nolink&600 |Dashboard - provide contract analytics to a user depending on their role. A user will only view contracts /department assigned to them}}
+
+
+
+{{:expired_contracts.png?nolink&600 |Expired contracts - allows a user to view all contracts that have expired}}
+
+
+
+
+{{:forgot_password.png?nolink&600 |Forgot password - allows a user to recover their password if they forgot}}
+
+
+
+{{:incomplete_contracts.png?nolink&600 |Incomplete contracts - allows a user to view all contracts that do not have documentation(no contract uploaded)}}
+
+
+
+
+
+{{:login.png?nolink&600 |Login - This window allows a user to login to the system or obtain access to the forgot password page}}
+
+
+
+{{:logout.png?nolink&600 |Logout - allows a user to exit the system}}
+
+
+
+{{:migrate_contracts.png?nolink&600 |Migrate contracts - allows a user to move contracts from one department to another}}
+
+
+
+{{:notifications.png?nolink&600 |Notifications - allows a user to view system notifications eg number of archived contracts}}
+
+
+
+{{:reports.png?nolink&600 |Reports - allows a user to export reports to excel such as administrative or contract reports}}
+
+
+
+{{:roles.png?nolink&600 |Roles - allows a user to view user roles and departmental asssignments}}
+
+
+
+{{:sysconfig.png?nolink&600 |Sysconfig - allows an admin user to configure system parameters}}
+
+
+
+{{:system_maintenance.png?nolink&600 |System maintenance - allows an admin to manually run system tasks such as contract renewals, send contract alert notifications etc}}
+
+
+
+{{:user_management.png?nolink&600 |User management- allows an admin user to view , archive , reset , disable or update user details}}
+
+
+
+{{:view_contract.png?nolink&600 |View contracts - allows a user to view a contract (no update)}}
+
+
+
+{{:view_departments.png?nolink&600 |View department - allows a user to view/ update a department}}
+
